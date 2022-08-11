@@ -1,0 +1,6 @@
+## Interface: 20504
+## Title: Chat XP
+## Notes: Display your XP information in chat
+## Version: 1.0
+
+ChatXP.lua
